@@ -12,5 +12,6 @@ public class HelloWorldAndroidActivity extends Activity {
         TextView tv = new TextView(this);
         tv.setText("HelloWorld");
         setContentView(tv);
+        
     }
 }
